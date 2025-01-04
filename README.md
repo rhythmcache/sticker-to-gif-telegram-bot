@@ -11,7 +11,7 @@ cd sticker-to-gif-telegram-bot
 ```
 - Open the bot.py and enter your `bot` token in the required field.
 - Install the required dependencies
-- your environment should have python ,pip and ffmpeg installed.
+- your environment should have python3.7+ ,pip and ffmpeg installed.
 - run the below command to install additional dependencies 
 ```
 pip install python-telegram-bot ffmpeg-python
