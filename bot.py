@@ -1,3 +1,6 @@
+# Sticker2gif by github.com/rhythmcache
+# rhythmcache.t.me
+
 import os
 import logging
 from telegram import Update
