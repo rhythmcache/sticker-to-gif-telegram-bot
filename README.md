@@ -14,6 +14,6 @@ cd sticker-to-gif-telegram-bot
 - your environment should have python3 ,pip and ffmpeg installed.
 - run the below command to install additional dependencies 
 ```
-pip install python-telegram-bot ffmpeg-python
+pip3 install python-telegram-bot ffmpeg-python
 ```
 - Start the bot `python3 bot.py`
