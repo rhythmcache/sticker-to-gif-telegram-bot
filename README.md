@@ -17,3 +17,11 @@ cd sticker-to-gif-telegram-bot
 pip install python-telegram-bot ffmpeg-python
 ```
 - Start the bot `python bot.py`
+
+
+# Use Without Python (sh)
+- dependencies = curl , jq and ffmpeg
+- Clone the repo
+- enter your bot token in bot.sh
+- chmod +x bot.sh
+- ./bot.sh
